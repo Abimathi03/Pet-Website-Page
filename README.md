@@ -1,1 +1,1 @@
-# Its a Front End Web page using Html for Pets
+Simple Front-end Web page using HTML for Pets
