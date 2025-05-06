@@ -45,15 +45,5 @@ A simple and responsive front-end web page dedicated to pets, built using HTML. 
 
 ## 📁 Project Structure
 
-PETWEBSITE/
-├── beef.jpeg
-├── diet.jpg
-├── dogpaw.jpg
-├── food.jpg
-├── index.html
-├── thing.jpg
-├── things.jpg
-└── README.md
-
 - index.html: Main HTML file containing the structure of the web page.
 - Images: Various JPEG images related to pets displayed on the web page.
