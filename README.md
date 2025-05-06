@@ -37,7 +37,7 @@ A simple and responsive front-end web page dedicated to pets, built using HTML. 
 
 1. **Clone the repository**:
 
-   bash - git clone https://github.com/Abimathi03/PETWEBSITE.git
+   bash - https://github.com/Abimathi03/Pet-Website-Page.git
 
 2. **Navigate to the project directory**:
    
